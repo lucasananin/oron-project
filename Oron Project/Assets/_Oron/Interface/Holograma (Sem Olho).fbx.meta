@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: a7f8e443b5c927547a396b8270f6c9e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Antebraco.L
+    100004: Antebraco.R
+    100006: Anteperna.L
+    100008: Anteperna.R
+    100010: Armature
+    100012: Braco.L
+    100014: Braco.R
+    100016: Cabeca
+    100018: Cabeca_end
+    100020: Cauda
+    100022: cauda2
+    100024: cauda3
+    100026: Cauda4
+    100028: Cauda5
+    100030: Cauda6
+    100032: Cauda6_end
+    100034: Dedao.L
+    100036: Dedao.L_end
+    100038: Dedao.R
+    100040: Dedao.R_end
+    100042: Dedo.L
+    100044: Dedo.L_end
+    100046: Dedo.R
+    100048: Dedo.R_end
+    100050: Dedos do pe.L
+    100052: Dedos do pe.L_end
+    100054: Dedos do pe.R
+    100056: Dedos do pe.R_end
+    100058: Espinha1
+    100060: Espinha2
+    100062: //RootNode
+    100064: Mao.L
+    100066: Mao.R
+    100068: Ombro
+    100070: Ombro.001
+    100072: Origin
+    100074: Pe.L
+    100076: Pe.R
+    100078: Perna.L
+    100080: Perna.R
+    100082: Personagem
+    100084: Pescoco
+    400000: Abdomen
+    400002: Antebraco.L
+    400004: Antebraco.R
+    400006: Anteperna.L
+    400008: Anteperna.R
+    400010: Armature
+    400012: Braco.L
+    400014: Braco.R
+    400016: Cabeca
+    400018: Cabeca_end
+    400020: Cauda
+    400022: cauda2
+    400024: cauda3
+    400026: Cauda4
+    400028: Cauda5
+    400030: Cauda6
+    400032: Cauda6_end
+    400034: Dedao.L
+    400036: Dedao.L_end
+    400038: Dedao.R
+    400040: Dedao.R_end
+    400042: Dedo.L
+    400044: Dedo.L_end
+    400046: Dedo.R
+    400048: Dedo.R_end
+    400050: Dedos do pe.L
+    400052: Dedos do pe.L_end
+    400054: Dedos do pe.R
+    400056: Dedos do pe.R_end
+    400058: Espinha1
+    400060: Espinha2
+    400062: //RootNode
+    400064: Mao.L
+    400066: Mao.R
+    400068: Ombro
+    400070: Ombro.001
+    400072: Origin
+    400074: Pe.L
+    400076: Pe.R
+    400078: Perna.L
+    400080: Perna.R
+    400082: Personagem
+    400084: Pescoco
+    2100000: CharMenu
+    4300000: Personagem
+    9500000: //RootNode
+    13700000: Personagem
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CharMenu
+    second: {fileID: 2100000, guid: dd72e761f6f9af84798ef58cf4c6fcb4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

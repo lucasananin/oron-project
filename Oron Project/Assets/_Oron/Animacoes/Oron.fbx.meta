@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 6b905d17404ff924aa4ab8a5991f769a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Antebraco.L
+    100004: Antebraco.R
+    100006: Anteperna.L
+    100008: Anteperna.R
+    100010: Armature
+    100012: Bone
+    100014: Bone.001
+    100016: Bone.002
+    100018: Bone.002_end
+    100020: Braco.L
+    100022: Braco.R
+    100024: Cabeca
+    100026: Cabeca_end
+    100028: Dedao.L
+    100030: Dedao.L_end
+    100032: Dedao.R
+    100034: Dedao.R_end
+    100036: Dedo.L
+    100038: Dedo.L_end
+    100040: Dedo.R
+    100042: Dedo.R_end
+    100044: Dedos do pe.L
+    100046: Dedos do pe.L_end
+    100048: Dedos do pe.R
+    100050: Dedos do pe.R_end
+    100052: Dedos do peRoll.L
+    100054: Dedos do peRoll.R.001
+    100056: Espinha1
+    100058: Espinha2
+    100060: heelRoll.L
+    100062: heelRoll.R.001
+    100064: JoelhoCtrl.L
+    100066: JoelhoCtrl.L_end
+    100068: JoelhoCtrl.R.001
+    100070: JoelhoCtrl.R.001_end
+    100072: Mao.L
+    100074: Mao.R
+    100076: Ombro
+    100078: Ombro.001
+    100080: Pe.L
+    100082: Pe.R
+    100084: peCtrl.L
+    100086: peCtrl.R.001
+    100088: PeIK.L
+    100090: PeIK.L_end
+    100092: PeIK.R.001
+    100094: PeIK.R.001_end
+    100096: Perna.L
+    100098: Perna.R
+    100100: peRollCtrl.L
+    100102: peRollCtrl.L_end
+    100104: peRollCtrl.R.001
+    100106: peRollCtrl.R.001_end
+    100108: Personagem
+    100110: //RootNode
+    100112: Pescoco
+    100114: ripsCtrl
+    400000: Abdomen
+    400002: Antebraco.L
+    400004: Antebraco.R
+    400006: Anteperna.L
+    400008: Anteperna.R
+    400010: Armature
+    400012: Bone
+    400014: Bone.001
+    400016: Bone.002
+    400018: Bone.002_end
+    400020: Braco.L
+    400022: Braco.R
+    400024: Cabeca
+    400026: Cabeca_end
+    400028: Dedao.L
+    400030: Dedao.L_end
+    400032: Dedao.R
+    400034: Dedao.R_end
+    400036: Dedo.L
+    400038: Dedo.L_end
+    400040: Dedo.R
+    400042: Dedo.R_end
+    400044: Dedos do pe.L
+    400046: Dedos do pe.L_end
+    400048: Dedos do pe.R
+    400050: Dedos do pe.R_end
+    400052: Dedos do peRoll.L
+    400054: Dedos do peRoll.R.001
+    400056: Espinha1
+    400058: Espinha2
+    400060: heelRoll.L
+    400062: heelRoll.R.001
+    400064: JoelhoCtrl.L
+    400066: JoelhoCtrl.L_end
+    400068: JoelhoCtrl.R.001
+    400070: JoelhoCtrl.R.001_end
+    400072: Mao.L
+    400074: Mao.R
+    400076: Ombro
+    400078: Ombro.001
+    400080: Pe.L
+    400082: Pe.R
+    400084: peCtrl.L
+    400086: peCtrl.R.001
+    400088: PeIK.L
+    400090: PeIK.L_end
+    400092: PeIK.R.001
+    400094: PeIK.R.001_end
+    400096: Perna.L
+    400098: Perna.R
+    400100: peRollCtrl.L
+    400102: peRollCtrl.L_end
+    400104: peRollCtrl.R.001
+    400106: peRollCtrl.R.001_end
+    400108: Personagem
+    400110: //RootNode
+    400112: Pescoco
+    400114: ripsCtrl
+    2100000: Material
+    4300000: Personagem
+    7400000: Andar
+    7400002: Ociosidade
+    9500000: //RootNode
+    13700000: Personagem
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: dbeb13041a72d024f945749f8b0fe84b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Andar
+      takeName: Armature|Andar
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ociosidade
+      takeName: Armature|Ociosidade
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

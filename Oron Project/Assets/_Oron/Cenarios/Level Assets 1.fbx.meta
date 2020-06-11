@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: ee23e376550894945b63fcb2e03df875
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Borda
+    100002: Caixa
+    100004: Chegada
+    100006: Coluna
+    100008: Disparador
+    100010: Disparador Giratorio
+    100012: Duto
+    100014: Encaixador
+    100016: Externa
+    100018: Flutuador
+    100020: Interruptor 0
+    100022: Interruptor 1
+    100024: Interruptor 2
+    100026: Junta
+    100028: Lampada
+    100030: //RootNode
+    100032: Limitador
+    100034: Parede
+    100036: Parede Curta
+    100038: Pilar 1
+    100040: Pilar 2
+    100042: Pilar 3
+    100044: Pilar 4
+    100046: Pilar 5
+    100048: Pilar 6
+    100050: Piso
+    100052: Piso Escuro
+    100054: Piso Laser
+    100056: Plataforma 0
+    100058: Plataforma 1
+    100060: Plataforma 2A
+    100062: Plataforma 2B
+    100064: Plataforma 3
+    100066: Plataforma 4
+    100068: Porta
+    100070: Porta Dupla
+    100072: Poste
+    100074: Tapume
+    100076: Transformador 1
+    100078: Transformador 2
+    400000: Borda
+    400002: Caixa
+    400004: Chegada
+    400006: Coluna
+    400008: Disparador
+    400010: Disparador Giratorio
+    400012: Duto
+    400014: Encaixador
+    400016: Externa
+    400018: Flutuador
+    400020: Interruptor 0
+    400022: Interruptor 1
+    400024: Interruptor 2
+    400026: Junta
+    400028: Lampada
+    400030: //RootNode
+    400032: Limitador
+    400034: Parede
+    400036: Parede Curta
+    400038: Pilar 1
+    400040: Pilar 2
+    400042: Pilar 3
+    400044: Pilar 4
+    400046: Pilar 5
+    400048: Pilar 6
+    400050: Piso
+    400052: Piso Escuro
+    400054: Piso Laser
+    400056: Plataforma 0
+    400058: Plataforma 1
+    400060: Plataforma 2A
+    400062: Plataforma 2B
+    400064: Plataforma 3
+    400066: Plataforma 4
+    400068: Porta
+    400070: Porta Dupla
+    400072: Poste
+    400074: Tapume
+    400076: Transformador 1
+    400078: Transformador 2
+    2100000: Opaque
+    2300000: Borda
+    2300002: Caixa
+    2300004: Chegada
+    2300006: Coluna
+    2300008: Disparador
+    2300010: Disparador Giratorio
+    2300012: Duto
+    2300014: Encaixador
+    2300016: Externa
+    2300018: Flutuador
+    2300020: Interruptor 0
+    2300022: Interruptor 1
+    2300024: Interruptor 2
+    2300026: Junta
+    2300028: Lampada
+    2300030: Limitador
+    2300032: Parede
+    2300034: Parede Curta
+    2300036: Pilar 1
+    2300038: Pilar 2
+    2300040: Pilar 3
+    2300042: Pilar 4
+    2300044: Pilar 5
+    2300046: Pilar 6
+    2300048: Piso
+    2300050: Piso Escuro
+    2300052: Piso Laser
+    2300054: Plataforma 0
+    2300056: Plataforma 1
+    2300058: Plataforma 2A
+    2300060: Plataforma 2B
+    2300062: Plataforma 3
+    2300064: Plataforma 4
+    2300066: Porta
+    2300068: Porta Dupla
+    2300070: Poste
+    2300072: Tapume
+    2300074: Transformador 1
+    2300076: Transformador 2
+    3300000: Borda
+    3300002: Caixa
+    3300004: Chegada
+    3300006: Coluna
+    3300008: Disparador
+    3300010: Disparador Giratorio
+    3300012: Duto
+    3300014: Encaixador
+    3300016: Externa
+    3300018: Flutuador
+    3300020: Interruptor 0
+    3300022: Interruptor 1
+    3300024: Interruptor 2
+    3300026: Junta
+    3300028: Lampada
+    3300030: Limitador
+    3300032: Parede
+    3300034: Parede Curta
+    3300036: Pilar 1
+    3300038: Pilar 2
+    3300040: Pilar 3
+    3300042: Pilar 4
+    3300044: Pilar 5
+    3300046: Pilar 6
+    3300048: Piso
+    3300050: Piso Escuro
+    3300052: Piso Laser
+    3300054: Plataforma 0
+    3300056: Plataforma 1
+    3300058: Plataforma 2A
+    3300060: Plataforma 2B
+    3300062: Plataforma 3
+    3300064: Plataforma 4
+    3300066: Porta
+    3300068: Porta Dupla
+    3300070: Poste
+    3300072: Tapume
+    3300074: Transformador 1
+    3300076: Transformador 2
+    4300000: Piso Laser
+    4300002: Disparador Giratorio
+    4300004: Limitador
+    4300006: Porta Dupla
+    4300008: Plataforma 4
+    4300010: Plataforma 3
+    4300012: Plataforma 2B
+    4300014: Plataforma 2A
+    4300016: Plataforma 1
+    4300018: Pilar 6
+    4300020: Pilar 5
+    4300022: Pilar 4
+    4300024: Pilar 3
+    4300026: Pilar 2
+    4300028: Piso Escuro
+    4300030: Interruptor 2
+    4300032: Interruptor 1
+    4300034: Transformador 2
+    4300036: Tapume
+    4300038: Poste
+    4300040: Junta
+    4300042: Coluna
+    4300044: Duto
+    4300046: Disparador
+    4300048: Pilar 1
+    4300050: Encaixador
+    4300052: Parede Curta
+    4300054: Externa
+    4300056: Borda
+    4300058: Lampada
+    4300060: Porta
+    4300062: Flutuador
+    4300064: Transformador 1
+    4300066: Caixa
+    4300068: Plataforma 0
+    4300070: Interruptor 0
+    4300072: Parede
+    4300074: Piso
+    4300076: Chegada
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opaque
+    second: {fileID: 2100000, guid: df34abe8896a44147a23f2ad954ce246, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

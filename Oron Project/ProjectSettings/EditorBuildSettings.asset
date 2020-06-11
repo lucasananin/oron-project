@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_WhitePillar/Scenes/MainMenu.unity
+    guid: 95fafac175340c14eb5e973252d38dad
+  - enabled: 1
+    path: Assets/_WhitePillar/Scenes/Intro.unity
+    guid: 570d2c144436a2941b1ec554e06b50b1
+  - enabled: 1
+    path: Assets/_WhitePillar/Scenes/Game.unity
+    guid: 0bfb5dfaf26b1c7439ba8c9af5e46873
+  m_configObjects: {}
